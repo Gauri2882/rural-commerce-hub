@@ -1,13 +1,15 @@
 
 import React from 'react';
-import { navigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
 
 const Index: React.FC = () => {
+  const navigate = useNavigate();
+  
   useEffect(() => {
     // Redirect to our main home page
-    window.location.href = '/';
-  }, []);
+    navigate('/');
+  }, [navigate]);
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
