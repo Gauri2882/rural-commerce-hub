@@ -151,6 +151,3 @@ npm install
 npm run dev
 ```
 
-## Acknowledgments
-
-- [List any third-party resources, libraries, or inspirations]
