@@ -151,14 +151,6 @@ npm install
 npm run dev
 ```
 
-## Project Team
-
-- Project Manager: [Name]
-- UI/UX Designer: [Name]
-- Frontend Developer: [Name]
-- Backend Developer: [Name]
-- QA Engineer: [Name]
-
 ## Acknowledgments
 
 - [List any third-party resources, libraries, or inspirations]
